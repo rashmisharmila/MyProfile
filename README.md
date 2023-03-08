@@ -11,6 +11,8 @@ Assignment-Links🔅
 
 Assignment 01😎
 
+<a href="[MyCV/Rashmi Sharmila'CV.docx](https://drive.google.com/file/d/1xsulyweml348EQ4AxMyUcK4-Q_bTZcaq/view?usp=share_link)">site-map</a>
+
 📌site-map
 Gloomap:- https://drive.google.com/file/d/1xsulyweml348EQ4AxMyUcK4-Q_bTZcaq/view?usp=share_link
 
