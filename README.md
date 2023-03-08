@@ -6,10 +6,9 @@ Technology used⁉️
 -------------------------
 📌HTML
 
-Assignment-Links🔅
--------------------------
 
 Assignment 01😎
+-------------------------
 
 📌Site-map
 <a href="[MyCV/Rashmi Sharmila'CV.docx](https://drive.google.com/file/d/1xsulyweml348EQ4AxMyUcK4-Q_bTZcaq/view?usp=share_link)">Personal Web Project-Site-Map</a>
@@ -24,6 +23,6 @@ Figma:-
 <a href="https://www.figma.com/file/f630IQkg5ibcpXog2XQLCs/Rashmi-Sharmila(Mock-up-Tab)?node-id=0%3A1&t=RJM43ZWwazEfDkDE-1">Personal Web Project-Wire-Frame</a>
 
 Assignment 02😎
+-------------------------
 
-📌
 <a href="https://github.com/rashmisharmila/-internetTechnologies-Assigment">Personal Web Project-Implement the mockup structure using HTML</a>
