@@ -1,10 +1,13 @@
-# About the project🤔
+About the project🤔
+-------------------------
 📌 This is my Personal Web Project.
 
-#Technology used⁉️
+Technology used⁉️
+-------------------------
 📌HTML
 
-#Assignment-Links🔅
+Assignment-Links🔅
+-------------------------
 
 Assignment 01😎
 
@@ -20,6 +23,6 @@ https://www.figma.com/file/0ZwERXytVa7lVmp5pFyQ9n/Rashmi-Sharmila(Mock-up-(Deskt
 https://www.figma.com/file/lrnsIIRDm52kukni2kucnx/Rashmi-Sharmila(Mock-up-(Mobile)?node-id=0%3A1&t=fy0Y3Vl6Ob4hiyE2-1
 https://www.figma.com/file/f630IQkg5ibcpXog2XQLCs/Rashmi-Sharmila(Mock-up-Tab)?node-id=0%3A1&t=RJM43ZWwazEfDkDE-1
 
-Assignment 01😎
+Assignment 02😎
 
 📌https://github.com/rashmisharmila/-internetTechnologies-Assigment
